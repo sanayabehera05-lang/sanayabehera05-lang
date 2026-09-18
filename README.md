@@ -36,7 +36,7 @@ I'm a Computer Science student passionate about programming, data analysis, and 
 - Built a Student Well-being Analytics project as part of my internship.
 
 ### 💻 Data Science Intern — Online
-**Skill Field Mentor**
+**SkillFied Mentor**
 
 - Completed an online internship in Data Science.
 - Gained practical exposure to data science concepts and tools.
